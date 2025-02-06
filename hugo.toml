@@ -1,0 +1,17 @@
+baseURL = "http://glim-midnight.pages.dev"
+languageCode = "en-us"
+theme = "glim-midnight"
+
+[params]
+    title = "Fabricio Gasperin"
+    phrases = ["Java", "Kotlin", "Linux", "Disgust"]
+    links = [
+    {name = "Github", url = "https://github.com/gasperinfabricio/", newTab = true},
+    {name = "Author", url = "https://mansoorbarri.com/"},
+    {name = "LinkedIn", url = "https://www.linkedin.com/in/fabricio-gasperin/", newTab = true},
+    {name = "Hugo", url = "https://gohugo.io/"},    
+    ] 
+    backgroundVideo= "bg.mp4"
+    footer = "Made with HATRED by Fabricio Gasperin"
+[params.meta]
+    favicon  = false
