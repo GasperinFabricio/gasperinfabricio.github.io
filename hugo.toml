@@ -7,7 +7,6 @@ theme = "glim-midnight"
     phrases = ["Java", "Kotlin", "Linux", "Disgust"]
     links = [
     {name = "Github", url = "https://github.com/gasperinfabricio/", newTab = true},
-    {name = "Author", url = "https://mansoorbarri.com/"},
     {name = "LinkedIn", url = "https://www.linkedin.com/in/fabricio-gasperin/", newTab = true},
     {name = "Hugo", url = "https://gohugo.io/"},    
     ] 
