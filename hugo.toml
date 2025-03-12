@@ -4,13 +4,13 @@ theme = "glim-midnight"
 
 [params]
     title = "Fabricio Gasperin"
-    phrases = ["Java", "Kotlin", "Linux", "Disgust"]
+    phrases = ["Java", "Kotlin", "Linux"]
     links = [
     {name = "Github", url = "https://github.com/gasperinfabricio/", newTab = true},
     {name = "LinkedIn", url = "https://www.linkedin.com/in/fabricio-gasperin/", newTab = true},
     {name = "Hugo", url = "https://gohugo.io/"},    
     ] 
     backgroundVideo= "bg.mp4"
-    footer = "Made with HATRED by Fabricio Gasperin"
+    footer = "Made by Fabricio Gasperin"
 [params.meta]
     favicon  = false
